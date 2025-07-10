@@ -1,0 +1,39 @@
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# 数据库文件
+*.db
+*.sqlite
+*.sqlite3
+.chat_app_db.sqlite
+
+# IDE相关文件
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 日志文件
+*.log
+logs/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.bak
+*.tmp
+tmp/
+
+# 打包文件
+dist/
+build/
+*.egg-info/ 
